@@ -1,0 +1,2 @@
+# Contributing
+Contributions are welcome!
